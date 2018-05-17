@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526406397 source:e:\probleme codeblock\poo2incercareinceput\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+
